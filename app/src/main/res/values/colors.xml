@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#59AEF1</color>
+    <color name="colorPrimaryDark">#002E53</color>
+    <color name="colorAccent">#C37792</color>
+    <color name="dhikr_color">#706725</color>
+</resources>
